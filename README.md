@@ -30,6 +30,22 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Node](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
+![assembly](https://img.shields.io/badge/-assembly-05122A?style=flat&logo=assembly)&nbsp;
+ 
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+  <p />
 
 
 
